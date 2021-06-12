@@ -1,1 +1,2 @@
 Hi Rahul Jain.this is a sample text file for git practising "
+adding new line to file 
