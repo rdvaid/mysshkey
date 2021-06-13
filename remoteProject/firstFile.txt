@@ -2,6 +2,6 @@ this is my first file in this directory
 we have to test so many thing under this project
 
 Now i am adding third line 
-Now  we are adding new line from firstBranch
+Now  you are adding new line from firstBranch
 
 =====
