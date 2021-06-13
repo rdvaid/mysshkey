@@ -1,5 +1,7 @@
 this is my first file in this directory
 we have to test so many thing under this project
-<<<<<<< HEAD
+
 Now i am adding third line 
+Now  we are adding new line from firstBranch
+
 =====
